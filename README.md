@@ -1,1 +1,1 @@
-All tasks from SoftUni - course.
+All tasks from SoftUni - JavaScript course.

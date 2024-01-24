@@ -12,7 +12,7 @@ function coins (input){
         for(let j = 0; j <= twoLeva; j++){
             for(let z = 0; z <= fiveLeva; z++){
                 if( i + (j * 2) +  (z * 5) == sum){
-                    console.log(`${i} * 1 lv. + ${j}  * 2 lv. + ${z} * 5 lv. = ${sum} lv.`);
+                    console.log(`${i} * 1 lv. + ${j} * 2 lv. + ${z} * 5 lv. = ${sum} lv.`);
                 }
             }
         }
